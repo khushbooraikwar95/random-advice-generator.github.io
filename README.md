@@ -3,6 +3,12 @@
 This is react based project on generating a random advice. 
 Click here to see the project - https://advice-from-khush.netlify.app/
 
+
+
+Uploading random-advice-from-khush.mp4…
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
