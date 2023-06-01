@@ -3,9 +3,10 @@
 This is react based project on generating a random advice. 
 Click here to see the project - https://advice-from-khush.netlify.app/
 
+![image](https://github.com/khushbooraikwar95/random-advice-generator.github.io/assets/35090657/ef6a6a8c-5c38-40ff-ab8c-05d1a5b2a3f8)
 
 
-Uploading random-advice-from-khush.mp4…
+
 
 
 
